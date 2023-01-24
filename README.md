@@ -1,3 +1,6 @@
+<h1> THIS IS NOT MY WORK </h1>
+<a href=https://gitlab.com/Speyedr/guardian-fastload-fix> </a>
+
 # ⚠️ DO NOT PLAY GAMES THAT HAVE REMOTE CODE EXPLOITS IN THEM ⚠️
 
 ## The risk of accidentally closing or misusing Guardian under the current exploit is NOT worth it.
