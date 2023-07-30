@@ -1,16 +1,3 @@
-<h1> THIS IS NOT MY WORK </h1>
-<a href=https://gitlab.com/Speyedr/guardian-fastload-fix> orginal creator </a>
-
-# ⚠️ DO NOT PLAY GAMES THAT HAVE REMOTE CODE EXPLOITS IN THEM ⚠️
-
-## The risk of accidentally closing or misusing Guardian under the current exploit is NOT worth it.
-
-## Please just take a break from Online.
-
-## I am NOT responsible for you losing your character or save (or your computer hacked) if you try to use Guardian to block these attacks and it doesn't work.
-
-## Oh, and please don't go around looking for other sites which host Guardian. They're probably older versions which do NOT work at all.
-
 ## Guardian
 Simple custom firewall used for the game GTA5.
 
